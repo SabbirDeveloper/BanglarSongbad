@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">বাংলার সংবাদ</string>
+
+    <string name="news_paper_section1">বাংলা নিউজ ২৪</string>
+    <string name="news_paper_section2">বিডি নিউজ ২৪</string>
+    <string name="news_paper_section3">প্রথমআলো</string>
+    <string name="news_paper_section4">যুগান্তর</string>
+    <string name="news_paper_section5">ইত্তেফাক</string>
+    <string name="news_paper_section6">সমকাল</string>
+    <string name="news_paper_section7">বাংলাদেশ প্রতিদিন</string>
+    <string name="news_paper_section8">আমার দেশ</string>
+    <string name="news_paper_section10">নয়াদিগন্ত</string>
+
+</resources>
